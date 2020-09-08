@@ -13,3 +13,4 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 def talk_with_grandma(talk)
   if talk !talk.upcase
+    return 
